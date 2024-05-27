@@ -21,24 +21,35 @@ namespace WpfApp5
     public partial class Page2 : Page
     {
         private string[] words = { "Наушники", "iphone", "телевизор", "мышка игровая", "вишня", "слива", "персик", "манго", "киви", "ананас" };
-
         public Page2()
         {
             InitializeComponent();
             SearchTextBox.KeyDown += SearchTextBox_KeyDown;
-
+            LoadData();
         }
 
-       
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MyFRame2.Navigate(new Uri("Page1.xaml", UriKind.Relative));
 
+        }
+        private void LoadData()
+        {
+            List<string> items = new List<string>();
+            for (int i = 1; i <= 100; i++)
+            {
+                items.Add($"Наушники {i}");
+            }
+            MyListBox.ItemsSource = items;
+        }
         private void SearchTextBox_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Enter)
             {
-               
+
                 Search();
 
-                
+
             }
         }
 
@@ -53,8 +64,8 @@ namespace WpfApp5
                 {
                     if (word.ToLower() == keyword)
                     {
-                        MyFrame3.Content = new Page3();
-                       
+                        MyFRame2.Content = new Page1();
+
                         found = true;
                         break;
                     }
@@ -63,29 +74,14 @@ namespace WpfApp5
                 if (!found)
                 {
                     SearchTextBox.ToolTip = "Данного товара нет в нашем магазине!";
-                    
+
                 }
             }
             else
             {
                 SearchTextBox.ToolTip = "Введите запрос для поиска.";
-               
+
             }
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("ПОБЕДА");
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("ПОБЕДА");
-        }
-
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("ПОБЕДА");
         }
     }
 }

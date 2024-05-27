@@ -20,41 +20,63 @@ namespace WpfApp5
     /// </summary>
     public partial class Page1 : Page
     {
+        private string[] words = { "Наушники", "iphone", "телевизор", "мышка игровая", "вишня", "слива", "персик", "манго", "киви", "ананас" };
+
         public Page1()
         {
             InitializeComponent();
+            SearchTextBox.KeyDown += SearchTextBox_KeyDown;
+
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+
+
+        private void SearchTextBox_KeyDown(object sender, KeyEventArgs e)
         {
-            string login1 = textBoxLogin1.Text.Trim();
-            string pas1 = PasBox1.Password.Trim();
-
-
-
-
-            if (login1.Length < 1 && login1.Length > 10)
+            if (e.Key == Key.Enter)
             {
-                textBoxLogin1.ToolTip = "Это поле введено некоректно";
-                textBoxLogin1.Background = Brushes.DarkRed;
-            }
-            else if (pas1.Length < 5)
-            {
-                PasBox1.ToolTip = "Это поле введено некоректно";
-                PasBox1.Background = Brushes.DarkRed;
-            }
 
+                Search();
+
+
+            }
+        }
+
+        public void Search()
+        {
+            string keyword = SearchTextBox.Text.Trim().ToLower();
+
+            if (!string.IsNullOrEmpty(keyword))
+            {
+                bool found = false;
+                foreach (string word in words)
+                {
+                    if (word.ToLower() == keyword)
+                    {
+                        MyFrame1.Content = new Page2();
+
+                        found = true;
+                        break;
+                    }
+                }
+
+                if (!found)
+                {
+                    SearchTextBox.ToolTip = "Данного товара нет в нашем магазине!";
+
+                }
+            }
             else
             {
-                textBoxLogin1.ToolTip = "";
-                textBoxLogin1.Background = Brushes.Transparent;
-                PasBox1.ToolTip = "";
-                PasBox1.Background = Brushes.Transparent;
-                MyFrame2.Content = new Page2();
-               
-                
-            }
+                SearchTextBox.ToolTip = "Введите запрос для поиска.";
 
+            }
         }
+
+        
+      
     }
+
+
 }
+
