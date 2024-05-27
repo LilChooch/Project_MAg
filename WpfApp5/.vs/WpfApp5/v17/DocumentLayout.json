@@ -1,40 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\",
+  "WorkspaceRootPath": "D:\\Project_Proga2\\WpfApp5\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041E\u043B\u0435\u0433\\\u0432\u0432\u043D \u0441\u0430\u0439\u0442\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|c:\\users\\\u043E\u043B\u0435\u0433\\source\\repos\\wpfapp5\\wpfapp5\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\wpfapp5\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|D:\\Project_Proga2\\WpfApp5\\wpfapp5\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{BAC326AC-F8EC-4A88-AF29-90CB1E78609B}|WpfApp5\\WpfApp5.csproj|solutionrelative:wpfapp5\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
@@ -45,16 +45,14 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "styles.css",
               "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\\u0432\u0432\u043D \u0441\u0430\u0439\u0442\\styles.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\\u0432\u0432\u043D \u0441\u0430\u0439\u0442\\styles.css",
               "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\\u0432\u0432\u043D \u0441\u0430\u0439\u0442\\styles.css",
-              "RelativeToolTip": "..\\..\\..\\\u0432\u0432\u043D \u0441\u0430\u0439\u0442\\styles.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-05-25T13:47:53.987Z",
@@ -62,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Page3.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page3.xaml.cs",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page3.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp5\\Page3.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page3.xaml.cs",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page3.xaml.cs",
               "RelativeToolTip": "WpfApp5\\Page3.xaml.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAwCQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Page3.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page3.xaml",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page3.xaml",
               "RelativeDocumentMoniker": "WpfApp5\\Page3.xaml",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page3.xaml",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page3.xaml",
               "RelativeToolTip": "WpfApp5\\Page3.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-16T12:27:37.63Z",
@@ -87,59 +85,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Page2.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page2.xaml",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page2.xaml",
               "RelativeDocumentMoniker": "WpfApp5\\Page2.xaml",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page2.xaml",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page2.xaml",
               "RelativeToolTip": "WpfApp5\\Page2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-24T17:35:00.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Page2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page2.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp5\\Page2.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page2.xaml.cs",
-              "RelativeToolTip": "WpfApp5\\Page2.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwFcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T19:46:24.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page1.xaml",
-              "RelativeDocumentMoniker": "WpfApp5\\Page1.xaml",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page1.xaml",
-              "RelativeToolTip": "WpfApp5\\Page1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-24T17:27:52.929Z"
+              "WhenOpened": "2024-04-24T17:35:00.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page1.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp5\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\Page1.xaml.cs",
-              "RelativeToolTip": "WpfApp5\\Page1.xaml.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwB8AAAAAAAAA",
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\Page2.xaml.cs",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page2.xaml.cs",
+              "RelativeToolTip": "WpfApp5\\Page2.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwFcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T17:35:57.378Z"
+              "WhenOpened": "2024-04-25T19:46:24.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page1.xaml",
+              "RelativeDocumentMoniker": "WpfApp5\\Page1.xaml",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page1.xaml",
+              "RelativeToolTip": "WpfApp5\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T17:27:52.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp5\\Page1.xaml.cs",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\Page1.xaml.cs",
+              "RelativeToolTip": "WpfApp5\\Page1.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:35:57.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp5\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp5\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-24T12:18:34.385Z"
@@ -148,9 +146,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp5\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\source\\repos\\WpfApp5\\WpfApp5\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Project_Proga2\\WpfApp5\\WpfApp5\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp5\\MainWindow.xaml.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAxwB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
